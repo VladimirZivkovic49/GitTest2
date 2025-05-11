@@ -31,5 +31,12 @@ namespace TestGitIgnore
 
         }
 
+        private int Substractfunc(int a, int b)
+        {
+            return (a - b);
+
+        }
+
+
     }
 }
