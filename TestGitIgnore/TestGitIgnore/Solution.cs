@@ -20,8 +20,16 @@ namespace TestGitIgnore
             return (a + b);
 
         }
+        private int Multifunc(int a, int b)
+        {
+            return (a * b);
 
+        }
+        private int Devidefunc(int a, int b)
+        {
+            return (a / b);
 
+        }
 
     }
 }
