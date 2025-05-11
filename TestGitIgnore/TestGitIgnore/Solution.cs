@@ -37,6 +37,10 @@ namespace TestGitIgnore
 
         }
 
+        private int SlozenProracunfunc(int a, int b)
+        {
+            return (a + b)/(a - b);
 
+        }
     }
 }
